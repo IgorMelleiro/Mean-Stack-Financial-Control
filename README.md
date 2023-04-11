@@ -1,5 +1,5 @@
 # Finance-Control
-Finance control system developed with MongoDB,  Express, Angular and Node.js (Created on udemy "MEAN Stack" course with the instructor Leonardo Moura Leitão)
+Finance control system developed with MongoDB,  Express, Angular and Node.js (Created on udemy "MEAN Stack" class with the instructor Leonardo Moura Leitão)
 
 # INICIAR FRONT-END 
 
